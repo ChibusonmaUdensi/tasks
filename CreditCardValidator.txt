@@ -1,9 +1,0 @@
-system.out.println("Visa card");
-	if (charCard[0] == masterCard) {
-System.out.println(Master Card"0;
-}
-else if (charCard[0] == discoverCard){
-System.out.println("discoverCard"0;
-}else if(charCard[0] == '3' && charCard[1] == '7'){
-Systemout.println("Express Card");
-}
