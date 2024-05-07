@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class Account{
+
+public static void main(String [] args){
+
+System.out.println("Enter a number in square meters");
+int convertsToPing = scanner.nextInt();
+
+int squareMeters = 0.3025
+System.out.println("Ping );
+
+}
+
+
+}

@@ -1,6 +1,0 @@
-number = str(input("Enter number: "))
-number2 = str(input("Enter number: "))
-str(number)
-str(number2)
-print(type(number))
-print(number + number2)
